@@ -2,7 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-OSRS Board/[Ll]ibrary/
+/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -70,3 +70,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/OSRS Board/Library
+/OSRS Board/[Tt]emp/
+/OSRS Board/[Oo]bj/
+/OSRS Board/[Bb]uild/
+/OSRS Board/[Bb]uilds/
+/OSRS Board/[Ll]ogs/
+/OSRS Board/[Uu]ser[Ss]ettings/
